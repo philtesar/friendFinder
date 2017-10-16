@@ -1,0 +1,12 @@
+{
+  "name": "friendfinderhomework",
+  "version": "1.0.0",
+  "description": "Friend Finder app demonstrating Node and Express with jQuery and AJAX. Overall purpose is a web app designed to help find a compatible friend. Set up web servers with Node.js using Express.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
